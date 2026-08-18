@@ -92,4 +92,4 @@ Built as a Go port of [mustache.js](https://github.com/janl/mustache.js) by the 
 
 ## License
 
-Add your chosen license here (e.g. MIT).
+MIT License
